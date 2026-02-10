@@ -1,1 +1,20 @@
+Devops - Sushmita
+
 Hello World
+
+On-Prem - PC maintained by orgs.
+Cloud - Enterprise (B to B) , 
+Public: AWS (B to B, B to C) 
+Private: own purpose (orgs use themselves).
+Hybrid cloud: cloud services from enterprise, own cloud. 
+
+Aws instance and key
+
+Linux: 
+
+All are case sensitive.
+Everything is file, including directories, devices and processes.
+A folder is called directory.
+Root user has full administrative privileges.
+Hidden files - dot(.)
+
