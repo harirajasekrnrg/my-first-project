@@ -16,5 +16,6 @@ All are case sensitive.
 Everything is file, including directories, devices and processes.
 A folder is called directory.
 Root user has full administrative privileges.
-Hidden files - dot(.)
+Hidden - dot(.)
 
+Adding new line
